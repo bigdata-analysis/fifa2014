@@ -1,0 +1,1 @@
+This directory will have code for Visualizations. Will be written in JavaScript or any other language of user choice. The data we use here is obtained from dataProcessing folders
