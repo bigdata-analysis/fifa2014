@@ -1,1 +1,0 @@
-Commit all Map/Reduce files or Clustering Algorithms to this directory. In general, code written using frameworks goes here.
